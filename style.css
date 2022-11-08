@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result, #captura
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.emojisColor {
+    background-color: #4287f5;
+    height: 50;
+    padding-top: 10;
+    border-radius: 40px ;
+}
+
+.Cor {
+    color: #03fc9d;
+    background-color: #eb4034;
+}
